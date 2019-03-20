@@ -16,4 +16,10 @@ class StaticPagesController < ApplicationController
 
   def help
   end
+
+  def context_search
+  end
+
+  def contact
+  end
 end
